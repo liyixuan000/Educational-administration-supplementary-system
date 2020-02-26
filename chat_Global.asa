@@ -1,0 +1,20 @@
+<script language="VBscript" runat="server">
+sub application_onstart
+	application("UserName")="ËùÓĞÈË"
+	application("head")="0.gif"
+	application("message")=""
+	application("u_bound") = 0
+	application("newmen") = 0
+end sub
+sub session_onstart
+	session("m_bound") = application("u_bound")
+end sub
+</script>
+<script language="vbscript" runat="server">
+sub Session_OnEnd
+end sub
+</script>
+<script language="vbscript" runat="server">
+sub application_onend
+end sub
+</script>

@@ -1,0 +1,27 @@
+<!--
+td           { font-size: 9pt;font_name:ËÎÌו;; line-height: 16pt}
+a:hover      { color: #ff0000; text-decoration: underline; font-size: 9pt }
+a            { font-size: 9pt; color: #0099ff; text-decoration: none }
+p {  font-size: 9pt; font-family: "ËÎÌו"; line-height: 11pt}
+/*???????*/
+INPUT.Style_button {
+	BORDER-RIGHT: #C60001 1px solid; BORDER-TOP: #C60001 1px solid; FONT-SIZE: 9pt; BACKGROUND: #ffcccc; BORDER-LEFT: #C60001 1px solid; COLOR: #C60001; BORDER-BOTTOM: #C60001 1px solid;HEIGHT: 20px;width: 40px
+}
+/*????????*/
+INPUT.Sytle_text {
+	BORDER-RIGHT: #FFCCCC 1px solid; BORDER-TOP: #FFCCCC 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #FFCCCC 1px solid;BORDER-BOTTOM: #FFCCCC 1px solid;HEIGHT: 18px
+}
+INPUT.Style_subject {
+	BORDER-RIGHT: #FFCCCC 1px solid; BORDER-TOP: #FFCCCC 1px solid;FONT-SIZE: 9pt; BORDER-LEFT: #FFCCCC 1px solid; BORDER-BOTTOM: #FFCCCC 1px solid;  HEIGHT: 18px; Width: 390px
+}
+INPUT.Style_button_del {
+	BORDER-RIGHT: #C60001 1px solid; BORDER-TOP: #C60001 1px solid; FONT-SIZE: 9pt; BACKGROUND: #ffcccc; BORDER-LEFT: #C60001 1px solid; COLOR: #C60001; BORDER-BOTTOM: #C60001 1px solid; HEIGHT: 20px;width: 90px
+}
+INPUT.Style_nj {
+	BORDER-RIGHT: #FFCCCC 1px solid; BORDER-TOP: #FFCCCC 1px solid;FONT-SIZE: 9pt; BORDER-LEFT: #FFCCCC 1px solid; BORDER-BOTTOM: #FFCCCC 1px solid; HEIGHT: 18px; Width: 362px
+}
+INPUT.Style_upload {
+	BORDER-RIGHT: #FFCCCC 1px solid; BORDER-TOP: #FFCCCC 1px solid;FONT-SIZE: 9pt; BORDER-LEFT: #FFCCCC 1px solid; BORDER-BOTTOM: #FFCCCC 1px solid; HEIGHT: 18px; Width: 290px
+}
+
+-->
